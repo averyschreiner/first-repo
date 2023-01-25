@@ -1,5 +1,5 @@
-A Alligator
-B Bat
-C Cougar
-D Duck
-E Elephant
+A Aardvark (change on line 1) 
+B Bat 
+C Cat (change on line 3) 
+D Duck 
+E Elephant 
