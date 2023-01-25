@@ -8,4 +8,4 @@ Checklist (because they are neat):
 - [x] create remote repo
 - [x] clone repo locally
 - [x] edit the markdown file (currently)
-- [] push back to remote repo
+- [ ] push back to remote repo
